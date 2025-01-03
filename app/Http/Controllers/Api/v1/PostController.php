@@ -10,12 +10,6 @@ use Illuminate\Http\JsonResponse;
 
 class PostController extends Controller
 {
-    public function test()
-    {
-        return view('api.test');
-    }
-
-
     public function index(): JsonResponse
     {
         $posts = Post::all();
