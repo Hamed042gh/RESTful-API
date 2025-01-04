@@ -1,7 +1,7 @@
 {
     "openapi": "3.0.0",
     "info": {
-        "title": "RESTfull API",
+        "title": "RESTful API",
         "version": "1.0"
     },
     "paths": {
