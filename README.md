@@ -1,5 +1,5 @@
 # Authentication System API
-![Main Screenshot](https://h00wen41.ir/images/1.png)
+![Main Screenshot](https://h00wen41.ir/images/m.png)
 ![Main Screenshot](https://h00wen41.ir/images/2.png)
 ![Main Screenshot](https://h00wen41.ir/images/3.png)
 ![Main Screenshot](https://h00wen41.ir/images/4.png)
@@ -31,4 +31,4 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/your-username/AuthenticationSystem.git](https://github.com/Hamed042gh/RESTful-API.git)
+   git clone (https://github.com/Hamed042gh/RESTful-API.git)
