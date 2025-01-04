@@ -62,9 +62,6 @@ class PostController extends Controller
         $post = Post::findOrfail($id);
         $post->delete();
 
-        return response()
-            ->json([
-                'message' => 'post removed!'
-            ], 200);
+        return response()->json(null, 204);
     }
 }
